@@ -1,6 +1,6 @@
 ### Hi, I'm Herald Fortunato👋
 
-🧑🏽‍💻 - Estudante de Engenharia de Software
+🧑🏽‍💻 - Data Science student.
 
 <div align="center">
   <a href="https://github.com/Fortunato-Herald">
