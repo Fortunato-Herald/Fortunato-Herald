@@ -15,13 +15,19 @@ My name is Herald Fortunato, student of data science.
 </div>
 <hr>
 <div align="center">
- <h2> 📈 Github Stats </h2>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fortunato-Herald&theme=omni)](https://git.io/streak-stats)<a         href="https://github.com/Fortunato-Herald/github-readme-stats"> &nbsp;<img alt="Jamila's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunato-Herald&langs_count=8&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fortunato-Herald&theme=omni&show_icons=true) 
-
- <br/>
+<h2>github stats</h2>
+<a href="https://github.com/Fortunato-Herald">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fortunato-Herald&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151514" />
+  </div>
+  <br>
+  <br>
+  <div align="center">
+  <img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunato-Herald&layout=compact&langs_count=8&bg_color=151514&text_color=daf7df" />
+     </div>
+  </a>
+  <div align="center" >
+<p>&nbsp;</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fortunato-Herald&theme=tokyonight_duo" alt="Herald Fortunato" /></p>
 </div>
 <hr>
 <div>
