@@ -14,9 +14,8 @@ My name is Herald Fortunato, student of data science.
 <a href="https://github.com/Fortunato-Herald" taret="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 <hr>
+<div align="center">
  <h2> 📈 Github Stats </h2>
- 
- <div>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fortunato-Herald&theme=omni)](https://git.io/streak-stats)<a         href="https://github.com/Fortunato-Herald/github-readme-stats"> &nbsp;<img alt="Jamila's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunato-Herald&langs_count=8&count_private=true&layout=compact&theme=omni&hide_border=true&bg_color=0D1117" /></a>
   
