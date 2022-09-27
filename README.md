@@ -1,7 +1,7 @@
 
 ### Herald Fortunato
 <hr>
-My name is Herald Fortunato, student of data science. 
+My name is Herald Fortunato, student of data science and computer science. 
 
 📚 Graduating in Data Science at [WYDEN](https://inscricoes.eadwyden.com.br/curso/ciencia-de-dados)<br>
 
