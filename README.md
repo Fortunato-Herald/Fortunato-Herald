@@ -1,9 +1,9 @@
 
 ### Herald Fortunato
 <hr>
-My name is Herald Fortunato Sebastião, student of Data Science and Computer Science. 
+My name is Herald Fortunato Sebastião, student of Computer Engineering. 
 
-📚 Graduating in Data Science at [WYDEN](https://inscricoes.eadwyden.com.br/curso/ciencia-de-dados)<br>
+📚 Graduating in Computer Engineering at [WYDEN]https://descomplica.com.br/faculdade/engenharia/engenharia-da-computacao/)<br>
 
 <div>
   <a href="https://www.instagram.com/herald.fortunato/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
