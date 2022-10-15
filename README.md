@@ -3,7 +3,7 @@
 <hr>
 My name is Herald Fortunato Sebastião, student of Computer Engineering. 
 
-📚 Graduating in Computer Engineering at [Descomplica]https://descomplica.com.br/faculdade/engenharia/engenharia-da-computacao/)<br>
+📚 Graduating in Computer Engineering at Descomplica<br>
 
 <div>
   <a href="https://www.instagram.com/herald.fortunato/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
