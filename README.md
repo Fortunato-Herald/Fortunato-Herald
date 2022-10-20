@@ -23,7 +23,6 @@ My name is Herald Fortunato Sebastião, student of Computer Engineering.
  </div>
  
   <br>
-  <br>
   
 <div align="center">
   <img height="198em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunato-Herald&layout=compact&langs_count=8&bg_color=151514&text_color=daf7df" />
