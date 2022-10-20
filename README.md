@@ -30,7 +30,7 @@ My name is Herald Fortunato Sebastião, student of Computer Engineering.
 
 <div align="center" >
   <p>&nbsp;</p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fortunato-Herald&theme=tokyonight_duo" alt="Herald Fortunato" /></p></div>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fortunato-Herald&theme=dark" alt="Herald Fortunato" /></p></div>
   
 <hr>
 
