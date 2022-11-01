@@ -1,9 +1,10 @@
 
 ### Herald Fortunato
 <hr>
-My name is Herald Fortunato Sebastião, student of Computer Engineering. 
+My name is Herald Fortunato Sebastião, data science and artificial intelligence student
+. 
 
-📚 Graduating in Computer Engineering at Descomplica<br>
+📚 Graduating in data science and artificial intelligence at Descomplica College<br>
 
 <div>
   <a href="https://www.instagram.com/herald.fortunato/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
