@@ -1,7 +1,7 @@
 
 ### Herald Fortunato
 <hr>
-My name is Herald Fortunato Sebastião, Cyber Defense student. 
+My name is Herald Fortunato Sebastião, cybersecurity student. 
 
 Graduating in cybersecurity at Faculdade Unopar.
 
