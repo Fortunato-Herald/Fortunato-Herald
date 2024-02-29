@@ -1,9 +1,9 @@
 
 ### Herald Fortunato
 <hr>
-My name is Herald Fortunato, analysis and systems development student. 
+My name is Herald Fortunato, Data Science Student. 
 
-Graduating in analysis and systems development at Faculdade Vincit.
+Graduating in Data Science at Faculdade Unopar.
 
 <div>
   <a href="https://www.instagram.com/herald.fortunato/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
