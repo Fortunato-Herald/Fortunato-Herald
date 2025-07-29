@@ -1,4 +1,3 @@
-
 ### Herald Fortunato
 <hr>
 My name is Herald Fortunato, student of data science and artificial intelligence and systems analysis and development. 
