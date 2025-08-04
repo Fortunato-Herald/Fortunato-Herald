@@ -1,8 +1,8 @@
 ### Herald Fortunato
 <hr>
-My name is Herald Fortunato, student of data science and artificial intelligence and systems analysis and development. 
+My name is Herald Fortunato, and I'm a student of Applied Artificial Intelligence and Systems Analysis and Development.
 
-Graduating in Data Science at Faculdade Unica.
+At PUC - Pontifical Catholic University of Paraná.
 
 <div>
   <a href="https://www.instagram.com/herald.fortunato/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
