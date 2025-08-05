@@ -44,6 +44,17 @@
 
 <hr>
 
+<h3 align="center">🌐 Languages</h3>
+
+<p align="center">
+  <strong>Portuguese:</strong> Native 🇧🇷 &nbsp;&nbsp; | &nbsp;&nbsp;
+  <strong>Spanish:</strong> Advanced 🇪🇸 &nbsp;&nbsp; | &nbsp;&nbsp;
+  <strong>English:</strong> Intermediate 🇺🇸 &nbsp;&nbsp; | &nbsp;&nbsp;
+  <strong>French:</strong> Intermediate 🇫🇷
+</p>
+
+<hr>
+
 <h3 align="center">⚡ GitHub Stats</h3>
 
 <p align="center">
