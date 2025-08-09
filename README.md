@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Student of Applied Artificial Intelligence and Systems Analysis and Development<br>
-  📍 Pontifical Catholic University of Paraná (PUCPR) - Brazil
+  📍 Pontifical Catholic University of Paraná (PUCPR) - Brazil.
 </p>
 
 <hr>
