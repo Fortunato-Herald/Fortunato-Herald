@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Student of Databases, Systems Analysis & Development.<br>
   📍 Unyleya University - Brazil.<br>
-  💡 Passionate about <strong>Artificial Intelligence</strong>, <strong>Prompt Engineering</strong>, and <strong>Cloud Computing (Azure)</strong>.
+  💡 Passionate about <strong>Artificial Intelligence</strong>, <strong>Prompt Engineering</strong>, and <strong>Cloud Computing (Azure).</strong>
 </p>
 
 ---
