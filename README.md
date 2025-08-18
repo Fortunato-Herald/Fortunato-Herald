@@ -6,6 +6,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fortunato-Herald/Fortunato-Herald/main/assets/ai-banner.gif" alt="Artificial Intelligence" width="800"/>
+</p>
+
+---
+
 ## 📖 About Me  
 I am an aspiring **Artificial Intelligence Specialist** and **Systems Analyst** passionate about transforming ideas into impactful, real-world solutions.  
 I combine skills in **web development**, **prompt engineering**, and **cloud computing** to design, build, and deploy applications that deliver measurable value.  
@@ -65,5 +71,8 @@ I combine skills in **web development**, **prompt engineering**, and **cloud com
 
 ## 🧩 Contribution Snake  
 
-![Snake animation](https://raw.githubusercontent.com/Fortunato-Herald/Fortunato-Herald/output/github-contribution-grid-snake.svg)  
-![Snake animation dark](https://raw.githubusercontent.com/Fortunato-Herald/Fortunato-Herald/output/github-contribution-grid-snake-dark.svg)  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fortunato-Herald/Fortunato-Herald/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fortunato-Herald/Fortunato-Herald/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Fortunato-Herald/Fortunato-Herald/output/github-contribution-grid-snake.svg" />
+</picture>
