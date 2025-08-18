@@ -65,4 +65,5 @@ I combine skills in **web development**, **prompt engineering**, and **cloud com
 
 ## 🧩 Contribution Snake  
 
-![Snake animation](https://github.com/Fortunato-Herald/Fortunato-Herald/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://raw.githubusercontent.com/Fortunato-Herald/Fortunato-Herald/output/github-contribution-grid-snake.svg)  
+![Snake animation dark](https://raw.githubusercontent.com/Fortunato-Herald/Fortunato-Herald/output/github-contribution-grid-snake-dark.svg)  
