@@ -56,6 +56,7 @@ I combine skills in **web development**, **prompt engineering**, and **cloud com
 **Spanish:** Advanced 🇪🇸  
 **English:** Intermediate 🇺🇸  
 **French:** Intermediate 🇫🇷  
+**Italian:** Basic 🇮🇹  
 
 ---
 
