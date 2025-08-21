@@ -7,7 +7,8 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fortunato-Herald/Fortunato-Herald/main/assets/ai-banner.gif" alt="Artificial Intelligence" width="800"/>
+  <img src="https://raw.githubusercontent.com/Fortunato-Herald/Fortunato-Herald/main/assets/ai-banner.png" 
+       alt="Artificial Intelligence" width="800"/>
 </p>
 
 ---
