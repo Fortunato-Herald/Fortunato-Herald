@@ -1,6 +1,6 @@
 # Hi, I'm Herald Fortunato Sebastião 👋  
 
-🎓 Student of Applied Artificial Intelligence and Systems Analysis and Development.  
+🎓 Student of systems analysis and development and information security.  
 📍 Unyleya University - Brazil.  
 💡 Passionate about **Artificial Intelligence**, **Prompt Engineering**, and **Cloud Computing (Azure).**  
 
