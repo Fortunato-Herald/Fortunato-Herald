@@ -2,7 +2,7 @@
 
 🎓 Student of systems analysis and development and information security.  
 📍 Unyleya University - Brazil.  
-💡 Passionate about **Artificial Intelligence**, **Prompt Engineering**, and **Cloud Computing (Azure).**  
+💡 Passionate about **artificial intelligence**, **neural networks**, **python** and **Linux**.  
 
 ---
 
