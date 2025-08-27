@@ -11,7 +11,7 @@
        alt="Artificial Intelligence" width="800"/>
 </p>
 
----
+----
 
 ## 📖 About Me  
 I am an aspiring **Artificial Intelligence Specialist** and **Systems Analyst** passionate about transforming ideas into impactful, real-world solutions.  
