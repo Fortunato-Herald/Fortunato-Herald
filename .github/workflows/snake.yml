@@ -1,54 +1,33 @@
-name: Update GitHub Contribution Snake
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # a cada 12h
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  generate-snake:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      # 1️⃣ Pegar o repositório
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      # 2️⃣ Gerar a Snake (SVG claro, SVG dark e GIF)
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Fortunato-Herald
-          svg_out_path: github-contribution-grid-snake.svg
-          svg_dark_out_path: github-contribution-grid-snake-dark.svg
-          gif_out_path: github-contribution-grid-snake.gif
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+            github-contribution-grid-snake.gif
 
-      # 3️⃣ Atualizar o README.md
-      - name: Update README with Snake
-        run: |
-          README="README.md"
-          GIF="github-contribution-grid-snake.gif"
-
-          # Remove bloco antigo da Snake
-          sed -i '/<picture>/,/<\/picture>/d' $README || true
-
-          # Adiciona novo bloco no final
-          echo -e "\n## 🧩 Contribution Snake\n" >> $README
-          echo '<picture>' >> $README
-          echo '  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />' >> $README
-          echo '  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />' >> $README
-          echo "  <img alt='Snake animation' src='$GIF' />" >> $README
-          echo '</picture>' >> $README
-
-      # 4️⃣ Commit e push
-      - name: Commit README and Snake
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg github-contribution-grid-snake.gif
-          git commit -m "Update GitHub Contribution Snake [skip ci]" || echo "No changes to commit"
-          git push origin main
+      - name: Push Snake to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: main # ou output
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
