@@ -73,7 +73,16 @@ I combine skills in **web development**, **prompt engineering**, and **cloud com
 ## 🧩 Contribution Snake  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fortunato-Herald/Fortunato-Herald/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fortunato-Herald/Fortunato-Herald/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Fortunato-Herald/Fortunato-Herald/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fortunato-Herald/Fortunato-Herald/main/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fortunato-Herald/Fortunato-Herald/main/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Fortunato-Herald/Fortunato-Herald/main/github-contribution-grid-snake.gif" />
 </picture>
+
+---
+
+<div align="center">
+  <p><b>Contagem de Visitantes</b></p>  
+  <p><img align="center" src="https://profile-counter.glitch.me/Fortunato-Herald/count.svg" /></p> 
+</div><br>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fortunato-Herald&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
