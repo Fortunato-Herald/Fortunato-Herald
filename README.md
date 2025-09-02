@@ -2,7 +2,7 @@
 
 🎓 Student of systems analysis and development and information security.  
 📍 Unyleya University - Brazil.  
-💡 Passionate about **artificial intelligence**, **neural networks**, **python** and **Linux**.  
+💡 Passionate about **Artificial Intelligence**, **Neural Networks**, **Python** and **Linux**.  
 
 ---
 
