@@ -1,4 +1,4 @@
-# Hi, I'm Herald Fortunato Sebastião👋  
+# Hi, I'm Herald Fortunato👋  
 
 🎓 Student of systems analysis and development and information security.  
 📍 Unyleya University - Brazil.  
