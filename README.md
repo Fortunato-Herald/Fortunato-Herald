@@ -1,6 +1,6 @@
 # Hi, I'm Herald Fortunato👋  
 
-🎓 Student of systems analysis and development and information security.  
+🎓 Student of systems analysis and development.  
 📍 Unyleya University - Brazil.  
 💡 Passionate about **Artificial Intelligence**, **Neural Networks**, **Python** and **Linux**.  
 
