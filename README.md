@@ -1,6 +1,6 @@
 # Hi, I'm Herald Fortunato👋  
 
-🎓 Student of Market Intelligence and Data Analysis and Artificial Intelligence and Digital Automation..  
+🎓 Student of Market Intelligence and Data Analysis and Artificial Intelligence and Digital Automation.
 📍 Unyleya University - Brazil.  
 💡 Passionate about **Artificial Intelligence**, **Neural Networks**, **Python** and **Linux**.  
 
