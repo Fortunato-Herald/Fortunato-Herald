@@ -1,7 +1,6 @@
 # Hi, I'm Herald Fortunato👋  
 
-🎓 Data Science student with (Big Data, BI and Data Engineering).
-📍 Unyleya University - Brazil.  
+🎓 Student of **Artificial Intelligence and Digital Automation** - At rocketseat College and **Systems Analysis and Development** - At Unyleya College.
 💡 Passionate about **Artificial Intelligence**, **Neural Networks**, **Python** and **Linux**.  
 
 ---
