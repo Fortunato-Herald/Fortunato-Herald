@@ -1,6 +1,6 @@
 # Hi, I'm Herald Fortunato👋  
 
-🎓 Student of **Artificial Intelligence and Digital Automation** - At rocketseat College and **Systems Analysis and Development** - At Unyleya College.
+🎓 Student of **Artificial Intelligence and Digital Automation** and **Systems Analysis and Development**.
 💡 Passionate about **Artificial Intelligence**, **Neural Networks**, **Python** and **Linux**.  
 
 ---
