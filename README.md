@@ -1,6 +1,6 @@
 # Hi, I'm Herald Fortunato👋  
 
-🎓 Student of **Artificial Intelligence and Digital Automation** and **Systems Analysis and Development**.
+🎓 Student of **Artificial Intelligence and Digital Automation** and **Systems Analysis and Development**
 💡 Passionate about **Artificial Intelligence**, **Neural Networks**, **Python** and **Linux**.  
 
 ---
