@@ -1,7 +1,7 @@
 # Hi, I'm Herald Fortunato👋  
 
 🎓 Student of **Cybersecurity**.
-💡 Passionate about Ethical Hacking, Forensics & Devsecops.
+💡 Passionate about *Ethical Hacking, Forensics & Devsecops*.
 
 ---
 
