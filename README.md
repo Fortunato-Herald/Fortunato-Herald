@@ -1,6 +1,6 @@
 # Hi, I'm Herald Fortunato👋  
 
-🎓 Student of **Data Science**.
+🎓 Student of *Data Science*.
 💡 Passionate about *Artificial Intelligence, Analytics, Cloud & Data Platforms*.
 
 ---
