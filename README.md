@@ -1,7 +1,7 @@
 # Hi, I'm Herald Fortunato👋  
 
 🎓 Student of *Data Science & Artificial Intelligence*. <br>
-💡 Passionate about **Machine Learning, IA Generativa & Natural Language Processing*.
+💡 Passionate about **Machine Learning, IA Generativa & Natural Language Processing**.
 
 ---
 
