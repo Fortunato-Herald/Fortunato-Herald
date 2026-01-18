@@ -3,7 +3,7 @@
 🎓 Student of *Data Science with an emphasis on
 
 Artificial Intelligence, Analytics, Cloud & Data Platforms*. <br>
-💡 Passionate about **Machine Learning, IA Generativa & Natural Language Processing**.
+💡 Passionate about **Machine Learning, IA Generativa & Natural Language Processing**. <br>
 
 ---
 
