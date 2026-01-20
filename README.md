@@ -1,8 +1,7 @@
 # Hi, I'm Herald Fortunato👋  
 
-🎓 Student of *Data Science with an emphasis on
-
-Artificial Intelligence, Analytics, Cloud & Data Platforms*. <br>
+🎓 Data Science (and Artificial Intelligence) student at InfNet college.
+<br>
 💡 Passionate about **Machine Learning, IA Generativa & Natural Language Processing**. <br>
 
 ---
