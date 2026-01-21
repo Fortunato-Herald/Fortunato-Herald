@@ -1,9 +1,9 @@
 # Hi, I'm Herald Fortunato👋  
 
 🎓 Data science student with an emphasis on artificial intelligence
-<br>
+<br><br>
 With a primary focus on Python, SQL, Big Data, Machine Learning, Scikit-learn, Artificial Intelligence, Neural Networks, Data Analytics, Data Mining, Statistics, Data Science, Clustering, Classification, Data Visualization, Exploratory Data Analysis, Data Governance, Streamlit, Web Scraping, JSON, Prompt Engineering, LangChain
-<br>
+<br><br>
 💡 Passionate about **Machine Learning, IA Generativa & Natural Language Processing**. <br>
 
 ---
