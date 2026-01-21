@@ -1,7 +1,8 @@
 # Hi, I'm Herald Fortunato👋  
 
-🎓 Student of Artificial Intelligence with emphasis on Machine Learning, Generative AI
-& Natural Language Processing
+🎓 Data science student with an emphasis on artificial intelligence
+<br>
+With a primary focus on Python, SQL, Big Data, Machine Learning, Scikit-learn, Artificial Intelligence, Neural Networks, Data Analytics, Data Mining, Statistics, Data Science, Clustering, Classification, Data Visualization, Exploratory Data Analysis, Data Governance, Streamlit, Web Scraping, JSON, Prompt Engineering, LangChain
 <br>
 💡 Passionate about **Machine Learning, IA Generativa & Natural Language Processing**. <br>
 
