@@ -1,4 +1,4 @@
-# Hi, I'm Herald Fortunato👋  
+# Hi, I'm *Herald Fortunato*👋  
 
 🎓 Student of **Data Science** and **Artificial Intelligence**, with an emphasis on **Data Analysis, Machine Learning, and Artificial Intelligence** at the **INFNET institute**.
 <br><br>
