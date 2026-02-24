@@ -1,6 +1,6 @@
 # Hi, I'm Herald Fortunato👋...
 
-🎓 Student of *Data Science and Artificial Intelligence*, with an emphasis on Data Analysis, Machine Learning, and Artificial Intelligence at the *INFNET institute*.
+🎓 Student of *Data Science*, with an emphasis on Artificial Intelligence, Analytics, Cloud & Data Platforms at the *FIAP*.
 <br><br>
 With a primary focus on Python, SQL, Big Data, Machine Learning, Scikit-learn, Artificial Intelligence, Neural Networks, Data Analytics, Data Mining, Statistics, Data Science, Clustering, Classification, Data Visualization, Exploratory Data Analysis, Data Governance, Streamlit, Web Scraping, JSON, Prompt Engineering, LangChain
 <br><br>
