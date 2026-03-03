@@ -1,69 +1,66 @@
 # 👨‍💻 Herald Fortunato Sebastião  
-### Data Science | Behavioral Analytics | Artificial Intelligence | Machine Learning
+### Ciência de Dados & Análise de Comportamento  
+### Inteligência Artificial & Machine Learning  
+
+Sou estudante de **Ciência de Dados e Análise de Comportamento**, com aprofundamento técnico em **Inteligência Artificial e Machine Learning**.
+
+Minha formação está direcionada à compreensão de como dados estruturam padrões comportamentais e como modelos matemáticos podem representar, prever e interpretar esses padrões por meio de algoritmos de aprendizado.
 
 ---
 
-## 🎯 Sobre Mim
+## 📌 Estrutura de Formação
 
-Sou estudante de **Ciência de Dados**, com foco em **Análise Comportamental, Inteligência Artificial e Machine Learning**.
+Tenho desenvolvido base técnica integrada nas seguintes áreas:
 
-Tenho direcionado meus estudos para o desenvolvimento de soluções baseadas em dados, aplicando técnicas estatísticas, modelagem preditiva e algoritmos de aprendizado de máquina para geração de insights estratégicos.
+### 📊 Ciência de Dados
+- Probabilidade e inferência estatística  
+- Modelagem estatística  
+- Análise exploratória de dados (EDA)  
+- Estruturação e modelagem de bancos de dados  
+- Tratamento e preparação de dados  
 
-Meu objetivo é atuar na interseção entre **dados, comportamento humano e inteligência computacional**, utilizando tecnologia para apoiar decisões orientadas por dados.
+### 🧠 Análise de Comportamento Orientada por Dados
+- Identificação de padrões comportamentais  
+- Construção de métricas analíticas  
+- Interpretação quantitativa de fenômenos humanos  
+- Modelagem preditiva aplicada a comportamento  
 
----
-
-## 🧠 Áreas de Especialização
-
-- Data Analytics & Business Intelligence  
-- Modelagem Estatística Aplicada  
-- Machine Learning Supervisionado e Não Supervisionado  
-- Análise Comportamental Orientada a Dados  
-- Inteligência Artificial Aplicada  
-- Estruturação e Modelagem de Bancos de Dados  
-
----
-
-## 🛠️ Stack Técnica (Em Desenvolvimento Contínuo)
-
-**Linguagens & Ferramentas**
-- Python (Pandas, NumPy, Scikit-learn)
-- SQL
-- Excel Avançado
-- Power BI
-
-**Conceitos Técnicos**
-- ETL e tratamento de dados  
-- Data Cleaning & Data Wrangling  
+### 🤖 Inteligência Artificial & Machine Learning
+- Modelos supervisionados (regressão e classificação)  
+- Modelos não supervisionados (clusterização)  
+- Validação cruzada e métricas de desempenho  
 - Feature Engineering  
-- Modelos de Classificação e Regressão  
-- Análise Exploratória de Dados (EDA)  
-- Estruturas de Dados e Algoritmos  
+- Fundamentos de redes neurais  
+- Análise preditiva  
+
+---
+
+## 🔬 Direcionamento Intelectual
+
+Meu interesse está na interseção entre:
+
+- Estatística aplicada  
+- Modelagem matemática  
+- Estruturação de dados  
+- Inteligência computacional  
+- Comportamento humano representado por dados  
+
+Busco compreender como sistemas inteligentes podem emergir da combinação entre dados estruturados, abstrações matemáticas e validação metodológica rigorosa.
 
 ---
 
 ## 🌎 Idiomas
 
-- 🇧🇷 Português — Nativo  
-- 🇺🇸 Inglês — Intermediário (leitura técnica e documentação)  
-- 🇪🇸 Espanhol — Avançado  
+- Português — Nativo  
+- Inglês — Intermediário (leitura técnica e documentação científica)  
+- Espanhol — Avançado  
 
 ---
 
-## 📊 Interesses Técnicos Atuais
+## 📊 Visão
 
-- Engenharia de Dados  
-- Redes Neurais e Deep Learning  
-- Processamento de Linguagem Natural (NLP)  
-- Análise Preditiva  
-- Data Warehousing e Arquitetura de Dados  
+Dados são representações estruturadas de comportamento e fenômenos reais.  
+Modelos são abstrações matemáticas desses fenômenos.  
+Inteligência surge quando essas abstrações são aplicadas com rigor, validação e interpretação adequada.
 
----
-
-## 🚀 Objetivo Profissional
-
-Atuar como profissional de dados, desenvolvendo soluções analíticas e modelos inteligentes que transformem dados em vantagem competitiva, eficiência operacional e inovação tecnológica.
-
----
-
-> "Sem dados você é apenas mais uma pessoa com opinião." – W. Edwards Deming
+Estou construindo essa base.
