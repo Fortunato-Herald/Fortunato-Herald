@@ -63,7 +63,9 @@ Busco compreender como sistemas inteligentes emergem da combinação entre dados
 
 - Português — Nativo  
 - Inglês — Intermediário (leitura técnica e documentação científica)  
-- Espanhol — Avançado  
+- Espanhol — Avançado
+
+> "Sem dados você é apenas mais uma pessoa com opinião." – W. Edwards Deming
 
 ---
 
