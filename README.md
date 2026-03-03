@@ -1,51 +1,61 @@
 # 👨‍💻 Herald Fortunato Sebastião  
-### Ciência de Dados & Análise de Comportamento  
-### Inteligência Artificial & Machine Learning  
+### Ciência de Dados | Inteligência Artificial | Machine Learning | Modelagem Estatística | Engenharia de Dados Analíticos
 
-Sou estudante de **Ciência de Dados e Análise de Comportamento**, com aprofundamento técnico em **Inteligência Artificial e Machine Learning**.
+Profissional em formação na área de Ciência de Dados e Inteligência Artificial, com direcionamento técnico voltado à modelagem estatística, aprendizado de máquina e estruturação de ambientes analíticos.
 
-Minha formação está direcionada à compreensão de como dados estruturam padrões comportamentais e como modelos matemáticos podem representar, prever e interpretar esses padrões por meio de algoritmos de aprendizado.
+Minha construção acadêmica e prática está fundamentada na compreensão de dados como representações matemáticas de fenômenos reais, buscando integrar estatística, engenharia de dados e inteligência computacional para gerar modelos interpretáveis, validados e aplicáveis.
 
 ---
 
-## 📌 Estrutura de Formação
+## 📌 Direcionamento Técnico
 
-Tenho desenvolvido base técnica integrada nas seguintes áreas:
+Tenho estruturado meus estudos sobre cinco pilares principais:
 
-### 📊 Ciência de Dados
+### 1️⃣ Fundamentos Matemáticos e Estatísticos
 - Probabilidade e inferência estatística  
-- Modelagem estatística  
-- Análise exploratória de dados (EDA)  
-- Estruturação e modelagem de bancos de dados  
-- Tratamento e preparação de dados  
+- Distribuições estatísticas  
+- Correlação e regressão  
+- Análise multivariada  
+- Validação estatística de modelos  
 
-### 🧠 Análise de Comportamento Orientada por Dados
-- Identificação de padrões comportamentais  
+### 2️⃣ Estruturação e Engenharia de Dados
+- Modelagem relacional e dimensional  
+- Normalização de dados  
+- ETL e preparação de dados  
+- Tratamento de dados ausentes e outliers  
+- Estruturas de dados e complexidade algorítmica  
+
+### 3️⃣ Análise Exploratória e Interpretação
+- EDA (Exploratory Data Analysis)  
+- Identificação de padrões e anomalias  
+- Feature Engineering  
 - Construção de métricas analíticas  
-- Interpretação quantitativa de fenômenos humanos  
-- Modelagem preditiva aplicada a comportamento  
 
-### 🤖 Inteligência Artificial & Machine Learning
+### 4️⃣ Machine Learning
 - Modelos supervisionados (regressão e classificação)  
 - Modelos não supervisionados (clusterização)  
 - Validação cruzada e métricas de desempenho  
-- Feature Engineering  
+- Pipeline de modelagem  
+- Generalização e controle de overfitting  
+
+### 5️⃣ Inteligência Artificial Aplicada
 - Fundamentos de redes neurais  
+- Reconhecimento de padrões  
 - Análise preditiva  
+- Processamento de dados comportamentais  
 
 ---
 
-## 🔬 Direcionamento Intelectual
+## 🔬 Linha de Interesse
 
-Meu interesse está na interseção entre:
+Interesse na interseção entre:
 
-- Estatística aplicada  
-- Modelagem matemática  
-- Estruturação de dados  
+- Modelagem estatística rigorosa  
 - Inteligência computacional  
-- Comportamento humano representado por dados  
+- Análise comportamental orientada por dados  
+- Arquitetura de dados escalável  
 
-Busco compreender como sistemas inteligentes podem emergir da combinação entre dados estruturados, abstrações matemáticas e validação metodológica rigorosa.
+Busco compreender como sistemas inteligentes emergem da combinação entre dados bem estruturados, abstrações matemáticas e validação metodológica consistente.
 
 ---
 
@@ -57,10 +67,10 @@ Busco compreender como sistemas inteligentes podem emergir da combinação entre
 
 ---
 
-## 📊 Visão
+## 📊 Visão Técnica
 
-Dados são representações estruturadas de comportamento e fenômenos reais.  
-Modelos são abstrações matemáticas desses fenômenos.  
-Inteligência surge quando essas abstrações são aplicadas com rigor, validação e interpretação adequada.
+Dados representam fenômenos.  
+Modelos representam abstrações matemáticas desses fenômenos.  
+Inteligência surge quando essas abstrações são validadas, interpretadas e aplicadas com rigor.
 
 Estou construindo essa base.
