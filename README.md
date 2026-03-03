@@ -1,61 +1,69 @@
-# 👋 Olá, eu sou Herald Fortunato Sebastião
-
-## 🎓 Sobre mim
-
-Sou estudante de **Ciência de Dados**, com foco em **Análise de Comportamento**, 
-**Inteligência Artificial** e **Machine Learning**.
-
-Tenho grande interesse em transformar dados em decisões estratégicas, 
-utilizando tecnologia para gerar valor real para empresas e pessoas.
+# 👨‍💻 Herald Fortunato Sebastião  
+### Data Science | Behavioral Analytics | Artificial Intelligence | Machine Learning
 
 ---
 
-## 🚀 Áreas de Interesse
+## 🎯 Sobre Mim
 
-- 📊 Ciência de Dados
-- 🧠 Inteligência Artificial
-- 🤖 Machine Learning
-- 📈 Análise de Dados
-- 🔎 Análise Comportamental
-- 🗄️ Banco de Dados
+Sou estudante de **Ciência de Dados**, com foco em **Análise Comportamental, Inteligência Artificial e Machine Learning**.
+
+Tenho direcionado meus estudos para o desenvolvimento de soluções baseadas em dados, aplicando técnicas estatísticas, modelagem preditiva e algoritmos de aprendizado de máquina para geração de insights estratégicos.
+
+Meu objetivo é atuar na interseção entre **dados, comportamento humano e inteligência computacional**, utilizando tecnologia para apoiar decisões orientadas por dados.
 
 ---
 
-## 🛠️ Competências em Desenvolvimento
+## 🧠 Áreas de Especialização
 
-- SQL e Modelagem de Dados
-- Python para análise de dados
-- Estatística aplicada
-- Visualização de dados
-- Algoritmos de Machine Learning
-- Estruturas de dados
+- Data Analytics & Business Intelligence  
+- Modelagem Estatística Aplicada  
+- Machine Learning Supervisionado e Não Supervisionado  
+- Análise Comportamental Orientada a Dados  
+- Inteligência Artificial Aplicada  
+- Estruturação e Modelagem de Bancos de Dados  
+
+---
+
+## 🛠️ Stack Técnica (Em Desenvolvimento Contínuo)
+
+**Linguagens & Ferramentas**
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
+- Excel Avançado
+- Power BI
+
+**Conceitos Técnicos**
+- ETL e tratamento de dados  
+- Data Cleaning & Data Wrangling  
+- Feature Engineering  
+- Modelos de Classificação e Regressão  
+- Análise Exploratória de Dados (EDA)  
+- Estruturas de Dados e Algoritmos  
 
 ---
 
 ## 🌎 Idiomas
 
-- 🇧🇷 **Português** — Nativo  
-- 🇺🇸 **Inglês** — Intermediário  
-- 🇪🇸 **Espanhol** — Avançado  
+- 🇧🇷 Português — Nativo  
+- 🇺🇸 Inglês — Intermediário (leitura técnica e documentação)  
+- 🇪🇸 Espanhol — Avançado  
 
 ---
 
-## 🎯 Objetivo Profissional
+## 📊 Interesses Técnicos Atuais
 
-Atuar na área de dados e inteligência artificial, 
-desenvolvendo soluções baseadas em dados que apoiem 
-a tomada de decisão estratégica e inovação tecnológica.
-
----
-
-## 📌 Interesses Atuais
-
-- Engenharia de Dados
-- Redes Neurais
-- Processamento de Linguagem Natural (NLP)
-- Análise Preditiva
-- Data Warehousing
+- Engenharia de Dados  
+- Redes Neurais e Deep Learning  
+- Processamento de Linguagem Natural (NLP)  
+- Análise Preditiva  
+- Data Warehousing e Arquitetura de Dados  
 
 ---
 
-> "Dados bem analisados não são apenas números, são decisões inteligentes."
+## 🚀 Objetivo Profissional
+
+Atuar como profissional de dados, desenvolvendo soluções analíticas e modelos inteligentes que transformem dados em vantagem competitiva, eficiência operacional e inovação tecnológica.
+
+---
+
+> "Sem dados você é apenas mais uma pessoa com opinião." – W. Edwards Deming
