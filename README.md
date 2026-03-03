@@ -1,33 +1,56 @@
-# Hi, I'm Herald Fortunato👋...
+# 👋 Olá, eu sou Herald Fortunato Sebastião
 
-🎓 Student of *Data Science*, with an emphasis on Artificial Intelligence, Analytics, Cloud & Data Platforms at the *FIAP*.
-<br><br>
-With a primary focus on Python, SQL, Big Data, Machine Learning, Scikit-learn, Artificial Intelligence, Neural Networks, Data Analytics, Data Mining, Statistics, Data Science, Clustering, Classification, Data Visualization, Exploratory Data Analysis, Data Governance, Streamlit, Web Scraping, JSON, Prompt Engineering, LangChain
-<br><br>
-💡 Passionate about **Machine Learning, IA Generativa & Natural Language Processing**. <br>
+## 🎓 Sobre mim
+
+Sou estudante de **Ciência de Dados**, com foco em **Análise de Comportamento**, 
+**Inteligência Artificial** e **Machine Learning**.
+
+Tenho grande interesse em transformar dados em decisões estratégicas, 
+utilizando tecnologia para gerar valor real para empresas e pessoas.
+
+---
+
+## 🚀 Áreas de Interesse
+
+- 📊 Ciência de Dados
+- 🧠 Inteligência Artificial
+- 🤖 Machine Learning
+- 📈 Análise de Dados
+- 🔎 Análise Comportamental
+- 🗄️ Banco de Dados
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Fortunato-Herald/Fortunato-Herald/main/assets/6011e92d-be18-43c6-965a-e00e77e1e4df.png" 
-       alt="Artificial Intelligence" width="800"/>
-</p>
+## 🛠️ Competências em Desenvolvimento
 
-----
-
-## 📖 About Me  
-I am an aspiring **Artificial Intelligence Specialist** and **Systems Analyst** passionate about transforming ideas into impactful, real-world solutions.  
-I combine skills in **web development**, **prompt engineering**, and **cloud computing** to design, build, and deploy applications that deliver measurable value.  
-
-🚀 **Currently focused on:**  
-- Leveraging **Generative AI** and large language models to solve complex problems.  
-- Designing **optimized prompts** for automation, chatbots, and AI-driven workflows.  
-- Building and deploying applications in **Microsoft Azure**.  
-- Expanding my portfolio with **hands-on, production-ready projects**.  
-
-💡 I believe technology should be both **innovative** and **purpose-driven**, and I’m committed to continuous learning to stay at the forefront of emerging trends.  
+- SQL e Modelagem de Dados
+- Python para análise de dados
+- Estatística aplicada
+- Visualização de dados
+- Algoritmos de Machine Learning
+- Estruturas de dados
 
 ---
+
+## 🎯 Objetivo Profissional
+
+Atuar na área de dados e inteligência artificial, 
+desenvolvendo soluções baseadas em dados que apoiem 
+a tomada de decisão estratégica e inovação tecnológica.
+
+---
+
+## 📌 Interesses Atuais
+
+- Engenharia de Dados
+- Redes Neurais
+- Processamento de Linguagem Natural (NLP)
+- Análise Preditiva
+- Data Warehousing
+
+---
+
+> "Dados bem analisados não são apenas números, são decisões inteligentes."
 
 ## 📬 Connect with Me  
 
