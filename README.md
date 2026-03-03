@@ -64,9 +64,7 @@ Busco compreender como sistemas inteligentes emergem da combinação entre dados
 - Português — Nativo  
 - Inglês — Intermediário (leitura técnica e documentação científica)  
 - Espanhol — Avançado
-
-> "Sem dados você é apenas mais uma pessoa com opinião." – W. Edwards Deming
-
+  
 ---
 
 ## 📊 Visão Técnica
@@ -76,3 +74,6 @@ Modelos representam abstrações matemáticas desses fenômenos.
 Inteligência surge quando essas abstrações são validadas, interpretadas e aplicadas com rigor.
 
 Estou construindo essa base.
+
+> "Sem dados você é apenas mais uma pessoa com opinião." – W. Edwards Deming
+
