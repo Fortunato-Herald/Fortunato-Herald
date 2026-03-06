@@ -1,4 +1,4 @@
-# 👨‍💻 Herald Fortunato Sebastião  
+# 👨‍💻 Herald Fortunato Sebastião 
 ### Ciência de Dados | Inteligência Artificial | Machine Learning | Modelagem Estatística | Engenharia de Dados Analíticos
 
 Profissional em formação na área de Ciência de Dados e Inteligência Artificial, com direcionamento técnico voltado à modelagem estatística, aprendizado de máquina e estruturação de ambientes analíticos.
