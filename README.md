@@ -1,7 +1,7 @@
 
 ---
 
-# 👨‍💻 Herald Fortunato Sebastião.
+# 👨‍💻 Herald Fortunato Sebastião
 
 🎓 Estudante de **Ciência de Dados**, **Inteligência Artificial** e **Machine Learning**
 📊 Foco em **análise de dados, modelagem analítica e desenvolvimento de soluções baseadas em dados**
