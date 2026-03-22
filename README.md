@@ -1,116 +1,113 @@
-
----
-
 # 👨‍💻 Herald Fortunato Sebastião
 
-🎓 Estudante de **Ciência de Dados**, **Inteligência Artificial** e **Machine Learning**
-📊 Foco em **análise de dados, modelagem analítica e desenvolvimento de soluções baseadas em dados**
-
-Sou estudante de tecnologia com interesse em transformar dados em **insights, modelos preditivos e soluções inteligentes**. Busco constantemente desenvolver projetos práticos envolvendo **Data Science, Engenharia de Dados e Inteligência Artificial**.
-
-Meu objetivo é atuar no desenvolvimento de sistemas e análises que utilizem **dados, algoritmos e inteligência computacional** para resolver problemas reais.
+🎓 Estudante de **Ciência de Dados e Comércio Exterior**
+🏭 Consultor de Negócios na área industrial (frigorífico)
+📊 Foco em **análise de dados, processos industriais e negócios internacionais**
 
 ---
 
-# 🚀 Áreas de atuação
+## 📌 Sobre mim
 
-* Data Science
-* Machine Learning
-* Engenharia de Dados
-* Inteligência Artificial
-* Business Intelligence
-* Automação de Processos
+Sou estudante de tecnologia e atuo como **consultor de negócios na área industrial**, com foco em processos de frigorífico e sistemas empresariais.
+
+Tenho interesse em transformar dados em **insights estratégicos**, aplicando análise de dados tanto em ambientes industriais quanto em **comércio exterior e negócios globais**.
+
+Busco desenvolver soluções que integrem **dados, processos produtivos e tomada de decisão**, gerando eficiência operacional e inteligência de negócio.
 
 ---
 
-# 💻 Stack Tecnológica
+## 🚀 Áreas de atuação
 
-### Linguagens
+* 📊 Data Science
+* 📈 Business Intelligence
+* 🏭 Processos Industriais (Frigorífico)
+* 🌍 Comércio Exterior
+* 📦 Logística Internacional
+* ⚙️ Automação de Processos
+* 🗄️ Engenharia de Dados
+
+---
+
+## 💻 Stack Tecnológica
+
+### 🔹 Linguagens
 
 * Python
 * SQL
 * Ruby
 
-### Banco de Dados
+### 🔹 Banco de Dados
 
 * SQL Server
 * Modelagem de Dados
 * Data Warehousing
 
-### Ferramentas
+### 🔹 Ferramentas
 
 * Git / GitHub
 * Excel / Power Pivot
 * Looker Studio
-* Selenium (Automação de testes)
+* Selenium (Automação)
 
 ---
 
-# 🧠 Conhecimentos em desenvolvimento
+## 🧠 Conhecimentos
 
 * Análise exploratória de dados (EDA)
 * Modelagem estatística
-* Machine Learning
 * Processamento de dados
 * Automação de processos
 * Engenharia de dados
+* Visualização de dados
+* Processos industriais e ERP (contexto frigorífico)
 
 ---
 
-# 🎓 Formação Acadêmica
+## 🎓 Formação Acadêmica
 
-📊 **Graduação em Ciência de Dados e Inteligência Analítica**
+### 📊 Ciência de Dados e Inteligência Analítica
 
 * Estatística aplicada
 * Business Intelligence
 * Modelagem de dados
 * Big Data
 
-🤖 **Graduação em Inteligência Artificial e Machine Learning**
+### 🌍 Comércio Exterior
 
-* Redes neurais
-* Reconhecimento de padrões
-* Processamento de linguagem natural
-* Visão computacional
-
----
-
-# 🌍 Idiomas
-
-🇧🇷 Português — Nativo
-🇺🇸 Inglês — Intermediário
-🇪🇸 Espanhol — Avançado
+* Logística internacional
+* Importação e exportação
+* Cadeias globais de suprimento
+* Negociação internacional
 
 ---
 
-# 📊 Projetos em desenvolvimento
+## 🌍 Idiomas
+
+* 🇧🇷 Português — Nativo
+* 🇺🇸 Inglês — Intermediário
+* 🇪🇸 Espanhol — Avançado
+
+---
+
+## 📊 Projetos
 
 Neste perfil você encontrará projetos relacionados a:
 
 * 📈 Análise de dados
-* 🤖 Machine Learning
 * 🗄️ Banco de dados e SQL
 * ⚙️ Automação de processos
 * 📊 Visualização de dados
+* 🏭 Aplicações industriais
+* 🌍 Aplicações voltadas a negócios e comércio exterior
 
 ---
 
-# 🎯 Objetivo profissional
+## 🎯 Objetivo profissional
 
-Construir carreira na área de **Dados e Inteligência Artificial**, atuando no desenvolvimento de soluções baseadas em **modelagem de dados, machine learning e análise avançada de dados**.
-
----
-
-⭐ **Sempre aprendendo, explorando dados e desenvolvendo soluções inteligentes.**
+Construir carreira na área de **Dados e Negócios**, atuando com análise, modelagem e inteligência de dados aplicada a **processos industriais e comércio exterior**, apoiando decisões estratégicas e operacionais.
 
 ---
 
-💡 Se quiser, eu também posso te montar uma versão **muito mais forte ainda**, com:
+## ⭐ Sobre mim
 
-* badges de tecnologias
-* estatísticas automáticas do GitHub
-* gráfico de linguagens
-* contador de commits
-* layout de **README nível FAANG / Big Tech**
-
-Esse é o tipo de README que **faz recrutador parar no seu perfil**.
+Sempre aprendendo, explorando dados e desenvolvendo soluções inteligentes 🚀
