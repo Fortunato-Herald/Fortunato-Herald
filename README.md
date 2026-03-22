@@ -18,9 +18,9 @@ Busco desenvolver soluções que integrem **dados, processos produtivos e tomada
 
 ---
 
-## 🚀 Áreas de atuação# 👨‍💻 Herald Fortunato Sebastião
+## 🚀 Áreas de atuação
 
-![Visualizações](https://komarev.com/ghpvc/?username=Fortunato-Herald&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat)
+
 
 🎓 Estudante de **Ciência de Dados e Comércio Exterior**  
 🏭 Consultor de Negócios na área industrial (frigorífico)  
