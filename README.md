@@ -1,4 +1,4 @@
-# 👨‍💻 Herald Fortunato Sebastião
+# 👨‍💻 Herald Fortunato
 
 ![Visualizações](https://komarev.com/ghpvc/?username=Fortunato-Herald&label=Visualizações&color=0e75b6&style=flat)
 
