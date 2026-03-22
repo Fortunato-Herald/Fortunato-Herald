@@ -18,6 +18,26 @@ Busco desenvolver soluções que integrem **dados, processos produtivos e tomada
 
 ---
 
+## 🚀 Áreas de atuação# 👨‍💻 Herald Fortunato Sebastião
+
+![Visualizações](https://komarev.com/ghpvc/?username=Fortunato-Herald&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat)
+
+🎓 Estudante de **Ciência de Dados e Comércio Exterior**  
+🏭 Consultor de Negócios na área industrial (frigorífico)  
+📊 Foco em **análise de dados, processos industriais e negócios internacionais**
+
+---
+
+## 📌 Sobre mim
+
+Sou estudante de tecnologia e atuo como **consultor de negócios na área industrial**, com foco em processos de frigorífico e sistemas empresariais.
+
+Tenho interesse em transformar dados em **insights estratégicos**, aplicando análise de dados tanto em ambientes industriais quanto em **comércio exterior e negócios globais**.
+
+Busco desenvolver soluções que integrem **dados, processos produtivos e tomada de decisão**, gerando eficiência operacional e inteligência de negócio.
+
+---
+
 ## 🚀 Áreas de atuação
 
 * 📊 Data Science
@@ -119,16 +139,20 @@ Sempre aprendendo, explorando dados e desenvolvendo soluções inteligentes 🚀
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fortunato-Herald&show_icons=true&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunato-Herald&layout=compact&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fortunato-Herald&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunato-Herald&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs"/>
 </p>
 
 <p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=Fortunato-Herald&theme=radical" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=Fortunato-Herald&theme=radical" alt="GitHub Streak"/>
 </p>
+
+---
 
 ## 📈 Gráfico de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fortunato-Herald&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fortunato-Herald&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
+
+---
