@@ -1,5 +1,7 @@
 # 👨‍💻 Herald Fortunato Sebastião
 
+![Visualizações](https://komarev.com/ghpvc/?username=Fortunato-Herald\&label=Visualizações\&color=0e75b6\&style=flat)
+
 🎓 Estudante de **Ciência de Dados e Comércio Exterior**
 🏭 Consultor de Negócios na área industrial (frigorífico)
 📊 Foco em **análise de dados, processos industriais e negócios internacionais**
