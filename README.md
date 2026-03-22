@@ -126,3 +126,9 @@ Sempre aprendendo, explorando dados e desenvolvendo soluções inteligentes 🚀
 <p align="center">
   <img height="170em" src="https://streak-stats.demolab.com?user=Fortunato-Herald&theme=radical" />
 </p>
+
+## 📈 Gráfico de Contribuições
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fortunato-Herald&theme=react-dark" />
+</p>
