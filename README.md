@@ -113,5 +113,27 @@ Construir carreira na área de **Dados e Negócios**, atuando com análise, mode
 
 Sempre aprendendo, explorando dados e desenvolvendo soluções inteligentes 🚀
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fortunato-Herald&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunato-Herald&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Fortunato-Herald&theme=radical" />
+</p>
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fortunato-Herald&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunato-Herald&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Fortunato-Herald&theme=radical" />
+</p>
+
 
 ![Visualizações](https://komarev.com/ghpvc/?username=Fortunato-Herald\&label=Visualizações\&color=0e75b6\&style=flat)
