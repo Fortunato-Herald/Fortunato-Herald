@@ -7,16 +7,16 @@
 ## 🚀 Data Analyst | Data Science | Business Intelligence
 
 🎯 Transformando dados em decisões estratégicas  
-🏭 Especialista em processos industriais (frigorífico)  
+🏭 Experiência em processos industriais (frigorífico)  
 🌍 Foco em dados aplicados a negócios e comércio exterior  
 
 ---
 
 ## 🧠 Sobre mim
 
-Atuo como **Consultor de Negócios no setor industrial**, com experiência prática em processos de frigorífico, sistemas empresariais e operações.
+Atuo como **Consultor de Negócios no setor industrial**, com experiência prática em processos de frigorífico e sistemas empresariais.
 
-Estou em transição estratégica para a área de **Dados**, desenvolvendo soluções que conectam:
+Estou em transição para a área de **Dados**, desenvolvendo soluções que conectam:
 
 - 📊 Dados + Operações industriais  
 - 🌍 Dados + Comércio Exterior  
@@ -67,20 +67,17 @@ Meu diferencial é unir **visão de negócio + análise de dados**, focando semp
 - 🌍 Dados aplicados ao comércio exterior  
 - 🤖 Automação de processos com Python  
 
-👉 *Em breve: projetos completos com datasets reais e dashboards profissionais*
+👉 Em breve: projetos completos com dashboards e análises reais
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fortunato-Herald&show_icons=true&theme=radical"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunato-Herald&layout=compact&theme=radical"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fortunato-Herald&show_icons=true&theme=radical&hide_border=true)
 
-<p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=Fortunato-Herald&theme=radical"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunato-Herald&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Fortunato-Herald&theme=radical&hide_border=true)
 
 ---
 
@@ -116,4 +113,4 @@ Atuar na área de **Dados (Analista / Cientista de Dados)**, aplicando análise,
 
 ---
 
-⭐ *Construindo minha transição para Dados com foco em impacto real*
+⭐ Construindo minha transição para Dados com foco em impacto real 🚀
