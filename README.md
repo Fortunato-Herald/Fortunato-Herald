@@ -2,157 +2,118 @@
 
 ![Visualizações](https://komarev.com/ghpvc/?username=Fortunato-Herald&label=Visualizações&color=0e75b6&style=flat)
 
-🎓 Estudante de **Ciência de Dados e Comércio Exterior**
-🏭 Consultor de Negócios na área industrial (frigorífico)
-📊 Foco em **análise de dados, processos industriais e negócios internacionais**
+---
+
+## 🚀 Data Analyst | Data Science | Business Intelligence
+
+🎯 Transformando dados em decisões estratégicas  
+🏭 Especialista em processos industriais (frigorífico)  
+🌍 Foco em dados aplicados a negócios e comércio exterior  
 
 ---
 
-## 📌 Sobre mim
+## 🧠 Sobre mim
 
-Sou estudante de tecnologia e atuo como **consultor de negócios na área industrial**, com foco em processos de frigorífico e sistemas empresariais.
+Atuo como **Consultor de Negócios no setor industrial**, com experiência prática em processos de frigorífico, sistemas empresariais e operações.
 
-Tenho interesse em transformar dados em **insights estratégicos**, aplicando análise de dados tanto em ambientes industriais quanto em **comércio exterior e negócios globais**.
+Estou em transição estratégica para a área de **Dados**, desenvolvendo soluções que conectam:
 
-Busco desenvolver soluções que integrem **dados, processos produtivos e tomada de decisão**, gerando eficiência operacional e inteligência de negócio.
+- 📊 Dados + Operações industriais  
+- 🌍 Dados + Comércio Exterior  
+- 📈 Dados + Tomada de decisão  
 
----
-
-## 🚀 Áreas de atuação
-
-
-
-🎓 Estudante de **Ciência de Dados e Comércio Exterior**  
-🏭 Consultor de Negócios na área industrial (frigorífico)  
-📊 Foco em **análise de dados, processos industriais e negócios internacionais**
+Meu diferencial é unir **visão de negócio + análise de dados**, focando sempre em impacto real.
 
 ---
 
-## 📌 Sobre mim
+## 🧩 Diferenciais
 
-Sou estudante de tecnologia e atuo como **consultor de negócios na área industrial**, com foco em processos de frigorífico e sistemas empresariais.
-
-Tenho interesse em transformar dados em **insights estratégicos**, aplicando análise de dados tanto em ambientes industriais quanto em **comércio exterior e negócios globais**.
-
-Busco desenvolver soluções que integrem **dados, processos produtivos e tomada de decisão**, gerando eficiência operacional e inteligência de negócio.
-
----
-
-## 🚀 Áreas de atuação
-
-* 📊 Data Science
-* 📈 Business Intelligence
-* 🏭 Processos Industriais (Frigorífico)
-* 🌍 Comércio Exterior
-* 📦 Logística Internacional
-* ⚙️ Automação de Processos
-* 🗄️ Engenharia de Dados
+✔ Experiência real em ambiente industrial  
+✔ Visão estratégica de negócios  
+✔ Capacidade de transformar dados em ação  
+✔ Foco em eficiência operacional e resultados  
 
 ---
 
 ## 💻 Stack Tecnológica
 
-### 🔹 Linguagens
+### 🐍 Linguagens
+- Python  
+- SQL  
 
-* Python
-* SQL
-* Ruby
+### 🗄️ Dados
+- SQL Server  
+- Modelagem de Dados  
+- Data Warehouse  
 
-### 🔹 Banco de Dados
+### 📊 BI & Visualização
+- Power BI  
+- Looker Studio  
+- Excel (Power Pivot / Dashboards)  
 
-* SQL Server
-* Modelagem de Dados
-* Data Warehousing
-
-### 🔹 Ferramentas
-
-* Git / GitHub
-* Excel / Power Pivot
-* Looker Studio
-* Selenium (Automação)
-
----
-
-## 🧠 Conhecimentos
-
-* Análise exploratória de dados (EDA)
-* Modelagem estatística
-* Processamento de dados
-* Automação de processos
-* Engenharia de dados
-* Visualização de dados
-* Processos industriais e ERP (contexto frigorífico)
+### ⚙️ Ferramentas
+- Git / GitHub  
+- Selenium (automação)  
 
 ---
 
-## 🎓 Formação Acadêmica
+## 📊 Projetos em Destaque
 
-### 📊 Ciência de Dados e Inteligência Analítica
+🚧 Em desenvolvimento — foco em projetos com dados reais:
 
-* Estatística aplicada
-* Business Intelligence
-* Modelagem de dados
-* Big Data
+- 📈 Análise de dados industriais  
+- 🏭 Otimização de processos produtivos  
+- 📦 Logística e cadeia de suprimentos  
+- 🌍 Dados aplicados ao comércio exterior  
+- 🤖 Automação de processos com Python  
 
-### 🌍 Comércio Exterior
+👉 *Em breve: projetos completos com datasets reais e dashboards profissionais*
 
-* Logística internacional
-* Importação e exportação
-* Cadeias globais de suprimento
-* Negociação internacional
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fortunato-Herald&show_icons=true&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunato-Herald&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
+  <img height="170em" src="https://streak-stats.demolab.com?user=Fortunato-Herald&theme=radical"/>
+</p>
+
+---
+
+## 🎓 Formação
+
+🎓 Ciência de Dados e Inteligência Analítica  
+🎓 Comércio Exterior  
 
 ---
 
 ## 🌍 Idiomas
 
-* 🇧🇷 Português — Nativo
-* 🇺🇸 Inglês — Intermediário
-* 🇪🇸 Espanhol — Avançado
+- 🇧🇷 Português — Nativo  
+- 🇺🇸 Inglês — Intermediário  
+- 🇪🇸 Espanhol — Avançado  
 
 ---
 
-## 📊 Projetos
+## 🎯 Objetivo
 
-Neste perfil você encontrará projetos relacionados a:
+Atuar na área de **Dados (Analista / Cientista de Dados)**, aplicando análise, modelagem e inteligência de dados para:
 
-* 📈 Análise de dados
-* 🗄️ Banco de dados e SQL
-* ⚙️ Automação de processos
-* 📊 Visualização de dados
-* 🏭 Aplicações industriais
-* 🌍 Aplicações voltadas a negócios e comércio exterior
+- 📊 Melhorar decisões estratégicas  
+- ⚙️ Otimizar processos  
+- 📈 Gerar valor para o negócio  
 
 ---
 
-## 🎯 Objetivo profissional
+## 🤝 Vamos nos conectar?
 
-Construir carreira na área de **Dados e Negócios**, atuando com análise, modelagem e inteligência de dados aplicada a **processos industriais e comércio exterior**, apoiando decisões estratégicas e operacionais.
-
----
-
-## ⭐ Sobre mim
-
-Sempre aprendendo, explorando dados e desenvolvendo soluções inteligentes 🚀
+💼 Em busca de oportunidades na área de Dados  
+📬 Aberto a networking e projetos  
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fortunato-Herald&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunato-Herald&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs"/>
-</p>
-
-<p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=Fortunato-Herald&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📈 Gráfico de Contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fortunato-Herald&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
----
+⭐ *Construindo minha transição para Dados com foco em impacto real*
