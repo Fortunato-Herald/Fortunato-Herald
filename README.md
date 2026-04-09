@@ -16,13 +16,23 @@
 
 Atuo como **Consultor de Negócios no setor industrial**, com experiência prática em processos de frigorífico e sistemas empresariais.
 
-Estou em transição para a área de **Dados**, desenvolvendo soluções que conectam:
+Estou em transição para a área de **Dados**, cursando:
+
+- 🎓 **Ciência de Dados e Análise de Comportamento**  
+- 🎓 **Comércio Exterior**  
+
+Além disso, estou realizando:
+
+- 📊 **Data Analysis Training**  
+- 🤖 **Data Science Training**  
+
+Desenvolvendo habilidades práticas em **SQL, Python, Power BI e Excel**, com foco em análise de dados, visualização e apoio à tomada de decisão.
+
+Meu diferencial é conectar:
 
 - 📊 Dados + Operações industriais  
 - 🌍 Dados + Comércio Exterior  
-- 📈 Dados + Tomada de decisão  
-
-Meu diferencial é unir **visão de negócio + análise de dados**, focando sempre em impacto real.
+- 📈 Dados + Estratégia de negócio  
 
 ---
 
@@ -67,23 +77,13 @@ Meu diferencial é unir **visão de negócio + análise de dados**, focando semp
 - 🌍 Dados aplicados ao comércio exterior  
 - 🤖 Automação de processos com Python  
 
-👉 Em breve: projetos completos com dashboards e análises reais
-
----
-
-## 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fortunato-Herald&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunato-Herald&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Fortunato-Herald&theme=radical&hide_border=true)
+👉 Em breve: projetos completos com dashboards e análises reais  
 
 ---
 
 ## 🎓 Formação
 
-🎓 Ciência de Dados e Inteligência Analítica  
+🎓 Ciência de Dados e Análise de Comportamento  
 🎓 Comércio Exterior  
 
 ---
@@ -91,8 +91,9 @@ Meu diferencial é unir **visão de negócio + análise de dados**, focando semp
 ## 🌍 Idiomas
 
 - 🇧🇷 Português — Nativo  
-- 🇺🇸 Inglês — Intermediário  
-- 🇪🇸 Espanhol — Avançado  
+- 🇪🇸 Espanhol — Intermediário  
+- 🇺🇸 Inglês — Em desenvolvimento  
+- 🇫🇷 Francês — Em desenvolvimento  
 
 ---
 
