@@ -12,6 +12,26 @@
 
 ---
 
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fortunato-Herald&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunato-Herald&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Fortunato-Herald&theme=tokyonight)
+
+---
+
+## 📈 Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fortunato-Herald&theme=tokyo-night)
+
+---
+
 ## 🧠 Sobre mim
 
 Atuo como **Consultor de Negócios no setor industrial**, com experiência prática em processos de frigorífico e sistemas empresariais.
@@ -26,7 +46,12 @@ Além disso, estou realizando:
 - 📊 **Data Analysis Training**  
 - 🤖 **Data Science Training**  
 
-Desenvolvendo habilidades práticas em **SQL, Python, Power BI e Excel**, com foco em análise de dados, visualização e apoio à tomada de decisão.
+Desenvolvendo habilidades práticas em:
+
+- Python  
+- SQL  
+- Power BI  
+- Excel  
 
 Meu diferencial é conectar:
 
